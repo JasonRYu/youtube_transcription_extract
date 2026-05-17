@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+venv/
+결과자막/
+*.egg-info/
+.DS_Store
+web/node_modules/
+web/.next/
